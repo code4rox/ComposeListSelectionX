@@ -14,7 +14,7 @@
 
 ## Sample Project 
 
-See complete 
+See complete implementation ```ComposeListSelectionX``` example project
 
 ## Installation
 
